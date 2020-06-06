@@ -5,8 +5,13 @@ I created this calculator using Tkinter module of Python.
 
 This Calculator will perform all the basic operations.
 
-The main highlight of this calculator is its interface as it looks very cool and it'll give a kind of dark mode effect to coders.
+• The main highlight of this calculator is its interface as it looks very cool and it'll give a kind of dark mode effect to coders.
 
-You can either press the buttons to choose digits and operations of the calculator or You can transcribe the expression in the entry box and can hit the enter button.
+• You can either press the buttons to choose digits and operations of the calculator or You can transcribe the expression in the entry box and can hit the enter button.
 
-It'll work similarly to any other calculator.
+• It'll work similarly to any other calculator.
+
+
+
+Calculator Image:
+![calc](https://user-images.githubusercontent.com/50060952/83950274-2380a800-a847-11ea-9343-4b4c5b037124.jpg)
